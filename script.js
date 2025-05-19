@@ -23,7 +23,6 @@ button.classList.add('btn-style');
 
 section.appendChild(button);
 
-
 const nyOverskrift = document.createElement("h2");
 nyOverskrift.textContent = "Dynamisk overskrift!";
 nyOverskrift.classList.add("tittel");
